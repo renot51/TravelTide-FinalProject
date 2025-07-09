@@ -246,15 +246,6 @@ Risks: Segment may include business travelers or emergencies — hard to persona
 
 ---
 
-## ✍️ Author
-
-- Project by **Ehud** (Data Analyst @ TravelTide Academy Project)
-
----
-
-## 📬 Feedback / Improvements
-
-Feel free to fork the project, open issues, or suggest enhancements!
 
 ### 📊 PCA Explained Variance
 
@@ -303,6 +294,16 @@ The Tableau dashboard summarizes the TravelTide segmentation strategy, key insig
 - Applied PCA to improve clustering interpretability
 - Explored multiple clustering methods and validated using silhouette score and DBSCAN
 - Practiced translating data science output into business insights and perk strategies
+
+## ✍️ Author
+
+- Project by **Ehud** (Data Analyst @ TravelTide Academy Project)
+
+---
+
+## 📬 Feedback / Improvements
+
+Feel free to fork the project, open issues, or suggest enhancements!
 
 ---
 
