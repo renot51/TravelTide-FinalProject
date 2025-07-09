@@ -1,0 +1,121 @@
+user_id,num_clicks,num_sessions,avg_session_duration,avg_bags,age,birthdate,gender,married,has_children,home_country,num_trips,num_flights,money_spent_hotel,time_after_booking,avg_km_flown,perk,avg_nights_per_trip,group_k_means,cluster_name,value_score,booking_segment,group_dbscan
+229009,144,8,264.78542925,0.25,18.0,2006-08-27,1,0,0,0,2,4,474.0,8.5,3028.73236214432,discount at special events,1.5,5,Spontaneous Bookers,11.711130356478598,General,-1
+232647,100,8,93.875,1.0,19.0,2006-04-11,1,0,0,0,2,2,2343.0,7.0,1436.751018608673,discount at special events,11.0,5,Spontaneous Bookers,12.223509529725733,Luxury Traveler,-1
+423413,133,8,123.875,0.0,19.0,2006-06-27,1,0,0,0,1,0,10760.0,0.0,0.0,discount at special events,20.0,5,Spontaneous Bookers,21.12677825503835,Luxury Traveler,-1
+466342,65,8,60.25,0.0,18.0,2006-11-28,0,0,0,1,2,0,7760.4,0.0,0.0,discount at special events,12.0,5,Spontaneous Bookers,19.195297337010043,Luxury Traveler,-1
+472446,172,8,161.0,0.0,18.0,2006-10-01,1,0,0,1,2,4,420.0,116.0,572.4404749057793,discount at special events,1.0,1,Young Adventurers,10.982075525704403,Planner,-1
+474007,52,8,48.625,0.0,19.0,2006-05-13,1,0,0,0,1,2,0.0,6.0,456.328151527509,discount at special events,0.0,5,Spontaneous Bookers,4.138811403248462,General,-1
+479078,71,8,67.375,0.0,19.0,2006-05-03,0,0,0,0,1,2,870.0,8.0,4293.2760612606235,discount at special events,6.0,5,Spontaneous Bookers,5.780871446850927,General,-1
+481358,75,8,69.75,0.0,19.0,2006-02-02,1,0,0,0,1,2,0.0,168.0,47.73650533299819,discount at special events,0.0,5,Spontaneous Bookers,4.613226304231705,Planner,-1
+483982,91,8,85.0,0.5,19.0,2006-02-17,1,0,0,0,2,4,1205.0,9.0,1447.728032288074,discount at special events,3.5,5,Spontaneous Bookers,10.412966528338334,General,-1
+488246,78,8,72.75,0.0,19.0,2006-01-26,1,0,0,1,1,0,1586.5,0.0,0.0,discount at special events,5.0,5,Spontaneous Bookers,6.93466731410176,Luxury Traveler,-1
+494484,170,8,158.375,1.0,19.0,2006-02-10,1,0,0,0,3,2,5388.6,6.0,2607.512777380675,discount at special events,7.333333333333333,3,Weekend Explorers,21.752556889618045,Luxury Traveler,-1
+494630,128,9,107.33333333333333,0.0,19.0,2006-03-03,1,0,0,0,1,0,384.0,0.0,0.0,discount at special events,6.0,5,Spontaneous Bookers,6.14742126345154,Spontaneous Booker,-1
+498298,130,8,121.875,2.0,19.0,2006-06-20,1,0,0,0,3,2,4832.0,6.0,1701.4311207634046,discount at special events,7.666666666666667,6,Frequent Flyers,20.137839689062382,Luxury Traveler,-1
+508829,312,8,1005.0,0.25,18.0,2006-11-18,1,0,0,0,3,4,2554.0,8.5,2873.159768210758,discount at special events,5.0,7,Solo Jetsetters,27.449670884369343,Luxury Traveler,-1
+509024,130,8,121.5,1.0,19.0,2006-04-28,1,0,0,0,1,2,2035.0,13.0,543.1331755162345,discount at special events,5.0,5,Spontaneous Bookers,8.654766659953598,Luxury Traveler,-1
+509459,100,8,92.125,1.0,18.0,2006-11-27,1,0,0,0,2,2,8580.0,4.0,2919.2710157714046,discount at special events,5.0,3,Weekend Explorers,21.080762002217472,Luxury Traveler,-1
+509552,117,8,110.625,1.0,19.0,2006-01-16,1,0,0,0,3,2,2125.0,364.0,4183.68105154044,discount at special events,6.5,0,Luxury Loyalists,16.024784613249317,Luxury Traveler,-1
+509603,128,8,118.75,1.0,19.0,2006-04-10,1,0,0,0,2,1,4736.25,7.0,1440.567897362669,discount at special events,8.0,5,Spontaneous Bookers,16.19812375434121,Luxury Traveler,-1
+511219,59,8,54.75,0.0,19.0,2006-04-05,1,0,0,0,1,0,412.0,0.0,0.0,discount at special events,2.0,5,Spontaneous Bookers,4.866493244772925,Spontaneous Booker,2
+512696,149,8,139.25,1.0,18.0,2006-10-10,1,0,0,0,3,2,9131.0,9.0,3601.5884755092156,discount at special events,9.333333333333334,3,Weekend Explorers,26.645550694889973,Luxury Traveler,-1
+512974,159,9,131.88888888888889,0.0,18.0,2006-12-11,1,0,0,1,3,1,1529.8,168.0,7819.1420652963525,discount at special events,6.0,0,Luxury Loyalists,15.8798710205723,Luxury Traveler,-1
+513569,87,9,72.66666666666667,1.0,19.0,2006-01-09,1,0,0,0,2,2,139.4,4.0,3132.7568344839324,discount at special events,1.5,4,Budget Travelers,8.732115790901375,General,-1
+513620,167,9,136.11111111111111,0.5,19.0,2006-05-14,1,0,0,1,3,4,2344.0,6.5,570.9391586647512,discount at special events,3.0,1,Young Adventurers,17.173630219927205,General,-1
+514876,122,8,114.625,0.0,19.0,2006-03-25,1,0,0,0,1,0,2432.0,0.0,0.0,discount at special events,8.0,5,Spontaneous Bookers,9.059085929728866,Luxury Traveler,-1
+514925,284,8,995.125,1.0,18.0,2006-12-27,1,0,0,1,1,0,1288.0,0.0,0.0,discount at special events,9.666666666666666,7,Solo Jetsetters,17.721325622355305,Spontaneous Booker,-1
+516340,100,9,82.11111111111111,0.0,19.0,2006-07-03,1,0,0,0,1,0,372.0,0.0,0.0,discount at special events,6.0,5,Spontaneous Bookers,5.5575015254249145,Spontaneous Booker,-1
+516433,69,9,57.888888888888886,0.0,19.0,2006-01-05,1,0,0,0,1,2,0.0,4.0,1068.6196369737304,discount at special events,0.0,5,Spontaneous Bookers,4.429163286973839,General,-1
+516933,103,8,96.375,0.0,18.0,2006-09-09,1,0,0,0,3,6,137.0,6.0,3286.2899964467492,discount at special events,-1.0,6,Frequent Flyers,12.894314313736102,General,-1
+518567,120,9,100.55555555555556,1.0,19.0,2006-03-01,1,0,0,0,1,2,106.0,8.0,1173.3344883917134,discount at special events,1.0,5,Spontaneous Bookers,5.592288152816037,General,-1
+520882,62,8,57.5,0.0,19.0,2006-01-06,1,0,0,0,1,0,780.0,0.0,0.0,discount at special events,6.0,5,Spontaneous Bookers,5.4519043966750775,Spontaneous Booker,-1
+521474,67,8,63.25,2.0,19.0,2006-03-07,1,0,0,0,1,2,144.0,7.0,4293.2760612606235,discount at special events,1.0,6,Frequent Flyers,4.661143608451181,General,-1
+521818,142,8,449.44670075,0.6666666666666666,19.0,2006-06-14,1,0,0,0,1,2,93.6,7.0,584.9860535242605,discount at special events,8.333333333333334,5,Spontaneous Bookers,9.149660034119695,General,-1
+522533,105,8,97.875,0.0,19.0,2005-08-23,1,0,0,0,3,6,1001.0,68.66666666666667,6008.547687094655,discount at special events,3.6666666666666665,6,Frequent Flyers,14.16164879171286,Planner,-1
+523866,137,8,128.125,0.3333333333333333,18.0,2006-08-23,1,0,0,1,3,5,567.0,10.333333333333334,2746.541734200449,discount at special events,2.0,1,Young Adventurers,14.212372626605013,Planner,-1
+525212,159,8,146.25,0.5,18.0,2006-11-02,0,0,0,0,3,4,807.6,6.5,2427.27135742425,discount at special events,3.0,6,Frequent Flyers,14.988714980134827,General,-1
+526925,154,8,143.875,0.0,18.0,2006-11-10,1,0,0,0,3,0,6054.0,0.0,0.0,discount at special events,8.666666666666666,5,Spontaneous Bookers,22.371104005652587,Luxury Traveler,-1
+527321,92,8,85.5,0.0,18.0,2006-09-21,1,0,0,1,1,0,340.0,0.0,0.0,discount at special events,5.0,5,Spontaneous Bookers,5.448915782446952,Spontaneous Booker,-1
+528528,106,8,99.875,0.0,18.0,2006-10-04,0,0,0,0,1,2,616.0,4.0,957.3963440760709,discount at special events,4.0,5,Spontaneous Bookers,6.144775984267013,General,-1
+528909,92,8,84.875,0.0,18.0,2006-07-16,1,0,0,0,2,0,17120.0,0.0,0.0,discount at special events,11.5,3,Weekend Explorers,33.06720707620544,Luxury Traveler,-1
+530196,279,8,973.75,1.0,18.0,2006-09-03,1,0,0,0,2,0,3176.0,0.0,0.0,discount at special events,8.25,7,Solo Jetsetters,23.895028568157255,Luxury Traveler,-1
+531834,69,8,64.25,1.0,19.0,2005-12-05,1,0,0,0,1,2,0.0,5.0,3344.70255025763,discount at special events,0.0,5,Spontaneous Bookers,4.489569113894,General,-1
+532279,114,8,105.875,0.0,18.0,2006-08-13,1,0,0,0,1,0,4992.0,0.0,0.0,discount at special events,12.0,5,Spontaneous Bookers,12.523070288007299,Luxury Traveler,-1
+532730,87,8,80.625,1.0,18.0,2006-10-24,1,0,0,0,2,2,3144.0,7.0,1031.2103864966462,discount at special events,8.0,5,Spontaneous Bookers,13.082569862062455,Luxury Traveler,-1
+533449,124,9,102.77777777777777,1.0,19.0,2006-04-14,1,0,0,0,1,2,151.0,6.0,3838.5844409127685,discount at special events,1.0,5,Spontaneous Bookers,5.725034713626491,General,-1
+536228,159,9,130.77777777777777,0.0,18.0,2006-09-17,1,0,0,0,1,0,1376.0,0.0,0.0,discount at special events,8.0,5,Spontaneous Bookers,8.150496422403004,Spontaneous Booker,-1
+537580,134,8,124.875,0.5,18.0,2006-09-17,1,0,0,0,4,4,5628.6,5.0,1200.1423210569305,discount at special events,5.75,3,Weekend Explorers,25.097332576153413,Luxury Traveler,-1
+537723,107,8,99.625,0.0,18.0,2006-07-22,0,0,0,0,1,2,200.0,6.0,1174.113445520385,discount at special events,1.0,5,Spontaneous Bookers,5.5624307843410286,General,-1
+538139,61,8,57.625,1.0,18.0,2006-07-13,1,0,0,1,1,2,482.4,12.0,3192.2257673899608,discount at special events,2.0,1,Young Adventurers,5.0177677116521116,Planner,-1
+538681,175,9,144.77777777777777,2.0,19.0,2006-01-04,1,0,0,0,1,2,0.0,11.0,341.81491512337976,discount at special events,-1.0,4,Budget Travelers,6.516174715281488,Planner,-1
+539304,125,8,116.25,0.0,19.0,2006-05-01,1,0,0,0,2,0,2232.0,0.0,0.0,discount at special events,3.5,5,Spontaneous Bookers,12.575675660947613,Spontaneous Booker,-1
+539669,142,8,132.5,0.0,19.0,2005-12-05,1,0,0,1,2,2,914.4,6.0,3232.8168286910113,discount at special events,1.5,1,Young Adventurers,11.057715244228637,General,-1
+541034,50,8,47.375,0.0,19.0,2006-05-15,1,0,0,0,1,0,1021.5,0.0,0.0,discount at special events,5.0,5,Spontaneous Bookers,5.5565001673187115,Spontaneous Booker,-1
+542706,106,8,98.875,0.0,19.0,2006-06-05,1,0,0,1,1,0,930.0,0.0,0.0,discount at special events,10.0,5,Spontaneous Bookers,6.582032379385515,Spontaneous Booker,-1
+543126,99,8,90.375,1.0,18.0,2006-08-02,1,0,0,1,3,4,1078.5,5.5,642.1889247898121,discount at special events,3.6666666666666665,1,Young Adventurers,14.129264724542374,General,-1
+543817,157,8,146.25,0.0,19.0,2006-01-20,1,0,0,0,1,2,112.0,11.0,2672.990411642033,discount at special events,-1.0,5,Spontaneous Bookers,6.4752206018044225,Planner,-1
+543928,104,8,96.875,0.5,19.0,2006-05-11,1,0,0,0,2,4,1090.0,8.0,1907.7344976518452,discount at special events,3.5,5,Spontaneous Bookers,10.516875220402166,General,-1
+544497,117,8,109.375,0.0,18.0,2006-11-05,1,0,0,0,1,0,1328.0,0.0,0.0,discount at special events,4.0,5,Spontaneous Bookers,7.378959859228254,Spontaneous Booker,-1
+546121,125,8,117.125,0.0,19.0,2006-07-07,1,0,0,0,1,2,0.0,5.0,2838.8198994743666,discount at special events,0.0,5,Spontaneous Bookers,5.658342730528024,General,-1
+547175,84,8,79.625,0.0,19.0,2005-12-22,1,0,0,1,2,1,1729.5,9.0,1026.2358725163785,discount at special events,8.5,5,Spontaneous Bookers,11.024839011375615,Luxury Traveler,-1
+549190,141,8,379.691451125,1.0,18.0,2006-11-16,1,0,0,1,1,0,738.0,0.0,0.0,discount at special events,6.0,5,Spontaneous Bookers,9.392190158050076,Spontaneous Booker,-1
+550711,146,8,135.25,0.0,18.0,2006-10-11,1,0,0,0,1,1,503.0,5.0,528.4313010317709,discount at special events,1.0,5,Spontaneous Bookers,6.796117449562905,General,-1
+551576,102,8,94.5,1.0,19.0,2006-06-21,1,0,0,0,1,2,249.0,6.0,1076.764931902473,discount at special events,3.0,5,Spontaneous Bookers,5.523955553758423,General,-1
+551600,86,8,80.0,1.0,19.0,2006-06-10,1,0,0,0,1,2,5124.0,5.0,2372.6381963006315,discount at special events,7.0,5,Spontaneous Bookers,12.131831829642149,Luxury Traveler,-1
+551729,93,8,85.875,0.0,18.0,2006-10-26,1,0,0,1,1,2,138.7,7.0,2880.7096555293906,discount at special events,1.0,5,Spontaneous Bookers,5.177976236902201,General,-1
+551990,127,9,105.33333333333333,0.0,19.0,2006-04-18,1,0,0,0,3,3,3523.0,7.0,3663.516243143962,discount at special events,6.333333333333333,4,Budget Travelers,18.082626574276492,Luxury Traveler,-1
+554202,142,8,131.25,1.0,19.0,2006-05-21,1,0,0,0,2,2,657.9,9.0,4146.514613924837,discount at special events,4.0,6,Frequent Flyers,10.680902370409612,General,-1
+554632,81,8,74.375,0.0,18.0,2006-08-04,1,0,0,0,1,0,91.8,0.0,0.0,discount at special events,1.0,5,Spontaneous Bookers,4.859185479552563,Spontaneous Booker,-1
+555058,110,8,102.875,0.5,19.0,2006-07-03,1,0,0,0,2,4,855.0,130.0,3439.6254788614306,discount at special events,3.0,0,Luxury Loyalists,10.31092747561215,Planner,-1
+555147,240,9,197.55555555555554,1.0,18.0,2006-12-07,1,0,0,0,1,2,104.0,5.0,2740.6166911505456,discount at special events,1.0,4,Budget Travelers,7.939136939320461,General,-1
+556043,73,8,67.875,0.0,19.0,2006-01-21,1,0,0,0,1,2,0.0,8.0,1970.5778135294577,discount at special events,0.0,5,Spontaneous Bookers,4.571611569430431,General,-1
+556274,53,8,50.625,0.0,18.0,2006-07-26,0,0,0,0,2,2,1136.0,336.0,14359.11502252221,discount at special events,4.0,0,Luxury Loyalists,9.5359849783878,Planner,-1
+556900,82,8,75.25,0.0,19.0,2006-04-08,1,0,0,0,1,0,153.6,0.0,0.0,discount at special events,2.0,5,Spontaneous Bookers,4.9673270627628545,Spontaneous Booker,-1
+557834,184,8,958.125,0.3333333333333333,18.0,2006-09-03,1,0,0,0,1,2,146.0,4.0,500.09962317366745,discount at special events,2.0,7,Solo Jetsetters,14.554680008011214,General,-1
+557986,125,10,93.6,1.0,18.0,2006-08-05,1,0,0,0,2,4,1060.0,9.0,2031.6951076206194,discount at special events,3.0,4,Budget Travelers,10.693092091266651,General,-1
+558202,68,8,63.75,0.0,18.0,2006-08-17,1,0,0,0,3,4,4660.0,3.5,3000.9430761358512,discount at special events,3.0,6,Frequent Flyers,18.603064976097542,General,-1
+560015,101,8,93.375,1.0,18.0,2006-09-01,1,0,0,0,1,2,228.0,7.0,3665.58533943797,discount at special events,3.0,5,Spontaneous Bookers,5.471489312836331,General,-1
+560529,95,8,88.625,0.0,18.0,2006-09-08,1,0,0,0,1,0,1568.0,0.0,0.0,discount at special events,8.0,5,Spontaneous Bookers,7.261477647174189,Luxury Traveler,-1
+560915,78,8,72.25,1.0,19.0,2006-01-22,1,0,0,0,1,2,345.8,7.0,1341.740948399273,discount at special events,4.0,5,Spontaneous Bookers,5.164677741155214,General,-1
+561699,88,8,81.875,0.0,19.0,2006-03-16,1,0,0,0,1,2,963.0,6.0,2171.5337603216926,discount at special events,3.0,5,Spontaneous Bookers,6.253264448771516,General,-1
+562814,72,8,66.5,0.0,18.0,2006-12-12,0,0,0,0,1,0,1518.0,0.0,0.0,discount at special events,11.0,5,Spontaneous Bookers,6.706427699323249,Luxury Traveler,-1
+563254,101,8,94.625,0.5,19.0,2006-01-07,1,0,0,0,2,3,1262.0,9.5,2116.650380138786,discount at special events,6.0,5,Spontaneous Bookers,10.704512615623129,General,-1
+564258,96,8,89.375,0.0,18.0,2006-10-16,1,0,0,0,3,2,8342.0,8.0,2066.8201567301207,discount at special events,7.333333333333333,3,Weekend Explorers,24.418407317691347,Luxury Traveler,-1
+566312,90,8,84.0,1.0,19.0,2006-02-11,1,0,0,1,2,2,2142.0,7.0,1731.0974158731547,discount at special events,4.0,1,Young Adventurers,11.72470928341307,General,-1
+567052,121,8,113.125,0.0,18.0,2006-07-20,0,0,0,0,1,0,665.0,0.0,0.0,discount at special events,7.0,5,Spontaneous Bookers,6.518887059498798,Spontaneous Booker,-1
+567458,98,8,91.75,1.0,19.0,2006-04-18,1,0,0,0,1,2,87.0,12.0,2672.990411642033,discount at special events,1.0,5,Spontaneous Bookers,5.219732049427214,Planner,-1
+570697,139,8,130.125,0.0,18.0,2006-10-20,0,0,0,1,1,2,237.0,7.0,2533.986768452368,discount at special events,3.0,5,Spontaneous Bookers,6.285657408836565,General,-1
+570930,160,9,133.44444444444446,0.0,19.0,2006-03-24,1,0,0,0,1,0,712.5,0.0,0.0,discount at special events,10.0,5,Spontaneous Bookers,7.243710492376194,Spontaneous Booker,-1
+571001,135,8,125.75,0.0,18.0,2006-10-09,0,0,0,0,1,0,7450.0,0.0,0.0,discount at special events,5.0,5,Spontaneous Bookers,16.45899553661347,Luxury Traveler,-1
+571610,173,8,162.5,1.0,18.0,2006-07-11,1,0,0,0,1,2,208.0,4.0,4183.68105154044,discount at special events,4.0,5,Spontaneous Bookers,6.9565953748062075,General,-1
+573931,160,8,149.75,1.0,18.0,2006-10-25,1,0,0,1,3,5,1328.6,7.0,2377.4985836327382,discount at special events,2.0,1,Young Adventurers,15.77512383170077,General,-1
+577682,79,8,73.375,1.0,19.0,2006-04-06,0,0,0,0,1,1,0.0,9.0,4222.299332943282,discount at special events,0.0,5,Spontaneous Bookers,4.695268759768136,General,-1
+579999,88,8,82.5,0.0,18.0,2006-10-17,1,0,0,0,1,0,260.0,0.0,0.0,discount at special events,2.0,5,Spontaneous Bookers,5.258986102299083,Spontaneous Booker,-1
+581461,87,8,80.875,0.0,19.0,2006-05-19,1,0,0,0,1,0,302.0,0.0,0.0,discount at special events,1.0,5,Spontaneous Bookers,5.291406862379365,Spontaneous Booker,-1
+581491,248,9,872.0,0.6666666666666666,19.0,2006-01-21,1,0,0,0,2,2,1830.0,9.0,2118.0906385799485,discount at special events,5.0,7,Solo Jetsetters,20.644691386891136,Luxury Traveler,-1
+584001,97,8,89.875,1.0,18.0,2006-10-21,1,0,0,1,1,2,556.0,9.0,2106.712038485346,discount at special events,0.0,1,Young Adventurers,5.857305280628305,General,-1
+586272,322,8,1014.375,0.0,19.0,2006-04-05,1,0,0,0,1,2,272.0,10.0,2265.716295635522,discount at special events,1.0,7,Solo Jetsetters,16.91096359515455,Planner,-1
+586344,95,8,88.875,0.0,19.0,2006-02-18,1,0,0,1,1,0,736.0,0.0,0.0,discount at special events,16.0,5,Spontaneous Bookers,6.080099807909397,Spontaneous Booker,-1
+588313,143,8,132.375,1.0,19.0,2006-02-04,1,0,0,0,1,2,372.0,8.0,4165.265628359745,discount at special events,2.0,6,Frequent Flyers,6.5467178323603745,General,-1
+590397,93,8,85.625,0.0,18.0,2006-07-23,1,0,0,0,2,0,2865.0,0.0,0.0,discount at special events,11.5,5,Spontaneous Bookers,12.804523742525392,Luxury Traveler,-1
+592372,117,8,110.625,1.0,18.0,2006-12-06,0,0,0,0,2,4,394.0,156.5,9246.233807985738,discount at special events,1.0,0,Luxury Loyalists,9.811954706441316,Planner,-1
+592958,79,8,74.25,0.0,19.0,2006-05-28,1,0,0,0,1,0,1566.0,0.0,0.0,discount at special events,3.0,5,Spontaneous Bookers,6.931649281721031,Spontaneous Booker,-1
+596442,212,8,197.125,0.0,19.0,2006-02-20,0,0,0,0,1,0,997.5,0.0,0.0,discount at special events,6.0,5,Spontaneous Bookers,8.872967758615323,Spontaneous Booker,-1
+605136,93,8,86.875,0.0,19.0,2006-05-08,1,0,0,0,1,0,3900.0,0.0,0.0,discount at special events,15.0,5,Spontaneous Bookers,10.538969823998965,Luxury Traveler,-1
+605943,123,8,116.0,0.0,19.0,2006-06-25,1,0,0,0,1,2,0.0,224.0,18596.676471646933,discount at special events,0.0,0,Luxury Loyalists,5.62385008012345,Planner,-1
+607626,72,8,67.375,0.0,19.0,2005-07-19,1,0,0,1,1,0,666.0,0.0,0.0,discount at special events,9.0,5,Spontaneous Bookers,5.502529356653533,Spontaneous Booker,-1
+607949,98,8,91.75,0.0,19.0,2006-02-20,1,0,0,0,2,2,2664.0,6.0,3351.7084046552595,discount at special events,12.0,5,Spontaneous Bookers,12.63623272524709,Luxury Traveler,-1
+608823,106,8,99.125,0.0,19.0,2006-04-15,1,0,0,1,1,2,756.0,140.0,3284.2746449943943,discount at special events,7.0,0,Luxury Loyalists,6.336842916018851,Planner,-1
+612220,265,8,961.0,1.3333333333333333,18.0,2006-10-12,0,0,0,0,1,2,0.0,7.0,2708.8006957716575,discount at special events,0.0,7,Solo Jetsetters,15.338541357548422,General,-1
+615674,48,8,44.875,0.0,19.0,2006-04-16,1,0,0,1,1,0,690.0,0.0,0.0,discount at special events,5.0,5,Spontaneous Bookers,5.037299227520851,Spontaneous Booker,-1
+615783,96,8,90.25,1.0,19.0,2006-02-20,1,0,0,0,1,2,402.0,13.0,1063.8037901453822,discount at special events,3.0,5,Spontaneous Bookers,5.6298536431585005,Planner,-1
+625398,114,8,106.5,0.5,19.0,2006-01-10,1,0,0,0,2,4,3525.6,5.0,2008.261661630609,discount at special events,6.0,5,Spontaneous Bookers,14.192642692050622,Luxury Traveler,-1
+626587,164,8,154.0,0.0,19.0,2006-06-11,0,0,0,0,1,0,693.0,0.0,0.0,discount at special events,9.0,5,Spontaneous Bookers,7.458783224253423,Spontaneous Booker,-1
+629345,205,9,169.22222222222223,0.0,19.0,2006-02-04,1,0,0,0,1,0,6588.0,0.0,0.0,discount at special events,12.0,5,Spontaneous Bookers,16.478710756051544,Luxury Traveler,-1
+635375,114,8,105.375,0.0,18.0,2006-11-11,1,0,0,0,1,0,1932.0,0.0,0.0,discount at special events,21.0,5,Spontaneous Bookers,8.164619450210502,Luxury Traveler,-1
+635861,69,8,65.5,0.0,19.0,2006-03-02,1,0,0,0,1,2,358.0,4.0,3885.9309585404003,discount at special events,2.0,5,Spontaneous Bookers,5.010794024420714,General,-1
+638598,67,8,62.625,1.0,19.0,2006-05-09,1,0,0,0,1,2,219.0,14.0,2442.576231251717,discount at special events,3.0,5,Spontaneous Bookers,4.761916939628744,Planner,-1
+639554,120,8,113.75,0.5,19.0,2006-04-20,1,0,0,0,2,3,1340.0,6.0,2996.875387213945,discount at special events,2.0,5,Spontaneous Bookers,11.223292981497929,General,-1
+645022,90,8,83.5,0.0,18.0,2006-08-05,1,0,0,0,1,0,445.0,0.0,0.0,discount at special events,5.0,5,Spontaneous Bookers,5.555505795690966,Spontaneous Booker,-1
+647638,59,8,55.0,0.0,19.0,2006-03-02,1,0,0,1,1,0,315.0,0.0,0.0,discount at special events,3.0,5,Spontaneous Bookers,4.730857740287957,Spontaneous Booker,-1
+647862,115,9,95.88888888888889,0.0,19.0,2006-05-28,1,0,0,1,1,0,1016.0,0.0,0.0,discount at special events,4.0,5,Spontaneous Bookers,6.783177756456035,Spontaneous Booker,-1

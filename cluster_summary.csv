@@ -1,0 +1,10 @@
+cluster_name,age,money_spent_hotel,num_sessions,num_trips,value_score,has_children,avg_bags,avg_nights_per_trip
+Budget Travelers,44.68,1853.64,9.17,3.14,182.58,0.34,0.58,3.29
+Family Vacationers,59.74,885.53,8.21,0.8,96.59,0.29,0.06,3.6
+Frequent Flyers,43.35,1272.03,8.0,2.76,141.34,0.0,0.62,2.78
+Last-Minute Planners,44.54,1587.29,8.01,2.67,176.35,1.0,0.67,3.15
+Luxury Loyalists,38.83,2148.82,8.19,2.0,232.8,0.39,0.96,5.77
+Solo Jetsetters,42.6,1299.76,8.25,1.98,140.98,0.33,0.76,4.05
+Spontaneous Bookers,25.91,768.36,8.14,0.73,84.29,0.33,0.09,3.17
+Weekend Explorers,44.42,4545.86,8.05,4.72,501.9,0.15,0.55,4.39
+Young Adventurers,43.32,1797.16,8.15,3.02,196.12,0.32,0.58,3.04

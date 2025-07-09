@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sessions.sql" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/sql/sessions.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="db706f9c-94e1-431f-ad82-37f48c56e326" />
+    <method v="2" />
+  </configuration>
+</component>
