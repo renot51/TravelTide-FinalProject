@@ -1,18 +1,41 @@
 # 📊 TravelTide Final Project – Customer Segmentation & Insights
 
+
+[![View Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau&style=flat-square)](https://public.tableau.com/app/profile/ehud.hermon/viz/TravelTideFinal-ProjectEhud/AverageValueScoreperBookingSegment)
+[![Download Final Files](https://img.shields.io/badge/GitHub-Download%20Submission-brightgreen?logo=github&style=flat-square)](https://github.com/renot51/TravelTide-FinalProject/releases/tag/v1.0.0)
+
+---
+
+## 🔗 Quick Access Links 
+
+- 🔎 [Explore the Tableau Dashboard](https://public.tableau.com/app/profile/ehud.hermon/viz/TravelTideFinal-ProjectEhud/AverageValueScoreperBookingSegment)
+- 📥 [Download Final Submission Files (PDF + PPTX)](https://github.com/renot51/TravelTide-FinalProject/releases/tag/v1.0.0)
+
+---
+
+## 📧 Contact
+
+For questions or collaboration opportunities:
+
+- 👤 [Connect on LinkedIn](https://www.linkedin.com/in/ehud-hermon/)
+- 📧 renot51@gmail.com
+
+---
+
 This project applies advanced data analysis and clustering techniques to segment TravelTide users based on their booking and travel behavior. 
 By combining SQL data extraction, Python preprocessing, and Tableau visualizations, it provides actionable insights and personalized perk strategies to enhance customer engagement and maximize business value.
 
 ## Table of Contents
-- [Project Overview](#🚀-project-overview)
-- [Project Structure](#🧩-project-structure)
-- [Features & Steps](#⚙️-features--steps)
-- [Business Insights](#📈-business-insights-examples)
-- [Perk Strategy](#🎁-perk-strategy-by-user-segment)
-- [Assumptions & Risks](#🔍-assumptions--risks-by-cluster)
-- [Output Files](#🗃️-output-files)
-- [Interactive Dashboard](#📊-interactive-tableau-dashboard)
-- [Key Learnings](#🧠-key-learnings)
+- [Project Overview](#project-overview)
+- [Project Structure](#project-structure)
+- [Features & Steps](#features--steps)
+- [Business Insights](#business-insights-examples)
+- [Perk Strategy](#perk-strategy-by-user-segment)
+- [Assumptions & Risks](#assumptions--risks-by-cluster)
+- [Output Files](#output-files)
+- [Interactive Dashboard](#interactive-tableau-dashboard)
+- [Key Learnings](#key-learnings)
+
 
 ---
 
@@ -264,10 +287,14 @@ Feel free to fork the project, open issues, or suggest enhancements!
 
 ## 📊 Interactive Tableau Dashboard
 
-Explore the full interactive dashboard for the TravelTide segmentation project on Tableau Public:
+The Tableau dashboard summarizes the TravelTide segmentation strategy, key insights, and perk recommendations.
 
-<a href="https://public.tableau.com/app/profile/ehud.hermon/viz/TravelTideFinalDashboard/Dashboard3PerksValidation" target="_blank">View the TravelTide Dashboard on Tableau Public</a>
+👉 You can explore the final interactive dashboard [on Tableau Public](https://public.tableau.com/app/profile/ehud.hermon/viz/TravelTideFinal-ProjectEhud/AverageValueScoreperBookingSegment).
 
+---
+
+📥 **Download the full project submission** (PDF Summary & PPTX Presentation):
+➡️ [TravelTide Final Submission – GitHub Release](https://github.com/renot51/TravelTide-FinalProject/releases/tag/v1.0.0)
 
 
 ## 🧠 Key Learnings
@@ -276,3 +303,13 @@ Explore the full interactive dashboard for the TravelTide segmentation project o
 - Applied PCA to improve clustering interpretability
 - Explored multiple clustering methods and validated using silhouette score and DBSCAN
 - Practiced translating data science output into business insights and perk strategies
+
+---
+
+## 🛡 License
+This project is provided for educational and portfolio use only. Commercial use requires permission.
+
+---
+
+
+
