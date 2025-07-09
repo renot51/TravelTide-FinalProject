@@ -266,7 +266,7 @@ Feel free to fork the project, open issues, or suggest enhancements!
 
 Explore the full interactive dashboard for the TravelTide segmentation project on Tableau Public:
 
-[View the TravelTide Dashboard on Tableau Public](https://public.tableau.com/app/profile/ehud.hermon/viz/TravelTideFinalDashboard/Dashboard3PerksValidation)
+<a href="https://public.tableau.com/app/profile/ehud.hermon/viz/TravelTideFinalDashboard/Dashboard3PerksValidation" target="_blank">View the TravelTide Dashboard on Tableau Public</a>
 
 
 
